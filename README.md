@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/musica-logo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/musica-logo.png" width="120" alt="Musica Logo" />
 </p>
 
 <h1 align="center">🎧 Musica</h1>
 
 <p align="center">
-  stream, organize, and play your music without limits, subscriptions, or distractions.
+  Stream, download, and organize your music faster &amp; cleaner — zero bloat, zero ads, and $0 forever.
 </p>
 
 <p align="center">
@@ -15,6 +15,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.shadownightdev.my.id/musica">
+    <img src="https://img.shields.io/badge/Website-Musica%20Portal-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
   <a href="https://discord.gg/K7r7E6zs87">
     <img src="https://img.shields.io/badge/Discord-JOIN%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
@@ -23,82 +26,88 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/musica.png" width="100%">
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/Musica.png" width="100%" alt="Musica Preview" />
 </p>
 
 ---
 
-## 🎵 About Sonix
+## 🎵 About Musica
 
-Sonix Music is a modern open-source music player built for Windows users who want speed, simplicity, and full control over their listening experience.
+**Musica** is a fast, lightweight desktop music player built with **Tauri + Rust** for listeners who want speed, modern glassmorphic design, and full control over their music without subscriptions, ads, or bloat.
 
-With a clean interface, powerful features, and seamless playback, Sonix lets you stream, download, and organize your music without distractions.
+Stream songs directly from YouTube Music, follow live synced lyrics, customize your sound with a built-in 10-band equalizer and crossfade, download tracks or full albums for 100% offline listening, and share playlists seamlessly with friends.
 
-From smart downloads to synced lyrics, every feature is designed to match your vibe and elevate your sound.
-
-> **🎧 Your music, your way — only with Sonix.**
-
+> **🎧 Your music, your vibe — fast, clean, and $0 forever with Musica.**
 
 ---
 
 ## 🚀 Features
 
-* ⚡ **Smart Download Engine**
-  Fast and reliable downloads with automatic quality selection.
+* ⚡ **Fast & Lightweight Architecture**
+  Built on Tauri + Rust with a low memory footprint, borderless glass UI, and zero ads or bloat.
 
-* 📺 **YouTube Integration**
-  Stream music directly with background playback and smart caching.
+* 🎵 **YouTube Music Streaming & Discovery**
+  Search songs and artists, browse region-aware Home feeds, Quick Picks, Popular Artists, Popular Songs, Popular Albums, and genre picks.
 
-* 💾 **Offline Mode**
-  Download and listen anytime, anywhere, no internet required.
+* 🚀 **Multi-Connection Download Engine (Offline Mode)**
+  Download single tracks or entire albums into organized folders with Boost Speed parallel connections and play 100% offline anytime.
 
-* 🎶 **Smart Playlists**
-  Organize your music with folders, playlists, and custom collections.
+* 🎤 **Live Synced Lyrics & Fullscreen View**
+  Follow real-time karaoke-style lyrics, click any line to jump directly to that timestamp, or expand to fullscreen lyrics mode.
 
-* 🎤 **Synced Lyrics**
-  Real-time karaoke style lyrics for an immersive experience.
+* 🎚️ **10-Band Equalizer, Crossfade & Normalization**
+  Fine-tune audio with presets (Acoustic, Jazz, Classical, EDM, and more), smooth dual-deck crossfade transitions (2–6s), and automatic loudness normalization.
 
-* 🎚️ **Seamless Playback**
-  Enjoy gapless playback and smooth crossfade transitions.
+* ✨ **Audio Visualizer & Ambient Background**
+  Real-time spectrum visualizer on the Now Playing cover art paired with dynamic backdrop glow matching the current album art.
 
-* ⚡ **Fast & Lightweight**
-  Optimized for performance with low memory usage.
+* ⏰ **Sleep Timer**
+  Automatically pause playback after 15, 30, 45, or 60 minutes — or stop right after the current song finishes.
+
+* ☁️ **Google Sync & Smart Playlist Sharing**
+  Sync Liked Songs and Cloud Playlists via Google Sign-In, share single-use auto-expiring playlist links via the Musica web portal, or send playlists directly to a friend’s Inbox via email or permanent `musica-...` User ID.
+
+* 🎮 **Discord Rich Presence & 7 Languages**
+  Display the currently playing track live on Discord, and switch freely between English, Indonesian, Japanese, Spanish, French, German, and Korean.
 
 ---
 
 ## 📥 Download
 
-Get the latest version of Sonix Music:
+Get the latest Windows release of **Musica**:
 
-👉 **[Download for Windows](https://github.com/ShadowNightDev/Sonix-Music/releases/latest)**
+👉 **[Download Latest Release](https://github.com/ShadowNightDev/Sonix-Music/releases/latest)** or visit **[shadownightdev.my.id/musica](https://www.shadownightdev.my.id/musica)**
+
+* **Setup Installer (`.exe`)** — Recommended for standard installation & `musica://` link integration
+* **MSI Installer (`.msi`)** — Windows Installer package
+* **Portable (`.exe`)** — Standalone executable, run without installing
 
 ---
 
 ## 🖥️ Platform
 
-* ✔ Windows (Primary)
-* ⏳ Linux (Planned)
-* ⏳ macOS (Planned)
+* ✔ **Windows** (Primary — Setup `.exe`, `.msi`, Portable `.exe`)
+* ⏳ **Android** (Planned)
+* ⏳ **Linux** (Planned)
+* ⏳ **macOS** (Planned)
 
 ---
 
-## 💜 Support Me
+## 💜 Support Musica
 
-If you like this project:
+If you enjoy using Musica:
 
-⭐ Star this repository
-🔁 Share with others
-🐛 Report issues
+* ⭐ Star this repository
+* 🔁 Share playlists and Musica with friends
+* 🐛 Report bugs or share ideas in our community
 
 ---
+
 ## 💬 Community
-<p align="center">
-  <a href="https://discord.gg/K7r7E6zs87">
-    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
 
-Connect with other music lovers, get support, share feedback, and stay updated with the latest news!
+👉 **[Questions, Feedback & Feature Requests](https://www.shadownightdev.my.id/community)**
+
+Connect with other music lovers, get help, request features, and stay up to date with new releases!
 
 ---
 
@@ -108,14 +117,13 @@ This project is not affiliated with, endorsed by, or associated with YouTube, Go
 
 All product names, logos, and brands are the property of their respective owners. Any use of these names is for identification purposes only and does not imply endorsement.
 
-Sonix Music is an independent open-source project intended for educational and personal use only.
+Musica is an independent open-source project intended for educational and personal use only.
 
 ---
 
 ## 🧠 Vision
 
-To create a powerful, free, and open music ecosystem.
-where users have full control over their listening experience.
+To build a fast, clean, and free cross-platform music ecosystem where listeners always stay in full control of their music library.
 
 ---
 
