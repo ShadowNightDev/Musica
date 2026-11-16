@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/logo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/musica-logo.png" width="120" />
 </p>
 
-<h1 align="center">🎧 Sonix Music</h1>
+<h1 align="center">🎧 Musica</h1>
 
 <p align="center">
   stream, organize, and play your music without limits, subscriptions, or distractions.
@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/sonixmusic1.png" width="100%">
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/musica.png" width="100%">
 </p>
 
 ---
