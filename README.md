@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/Musica.png" width="100%" alt="Musica Preview" />
+  <img src="https://raw.githubusercontent.com/ShadowNightDev/Sonix-Music/main/assets/Musica1.png" width="100%" alt="Musica Preview" />
 </p>
 
 ---
