@@ -18,8 +18,8 @@
   <a href="https://www.shadownightdev.my.id/musica">
     <img src="https://img.shields.io/badge/Website-Musica%20Portal-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://discord.gg/K7r7E6zs87">
-    <img src="https://img.shields.io/badge/Discord-JOIN%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://t.me/shadownight_dev">
+    <img src="https://img.shields.io/badge/Telegram-JOIN%20COMMUNITY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
@@ -126,9 +126,11 @@ Musica is an independent open-source project intended for educational and person
 To build a fast, clean, and free cross-platform music ecosystem where listeners always stay in full control of their music library.
 
 ---
-# VirusTotal
 
-[View Security Report](https://www.virustotal.com/gui/file/db0a00e16492dac8f7cc6adea927c1a216a220f544ad6f49648f820a210d4995)
+## 🛡️ VirusTotal
+
+[View Security Report](https://www.virustotal.com/gui/file/556bbffdea5aa163e54dcc06af01bb11d762afbc299cca3d5f235335f0a9b302)
+
 ---
 
 ## 👨‍💻 Developer
